@@ -1,0 +1,1 @@
+Durante o processo de um backup, se caso não haja uma política clara e obvia  de gestão de dados, é possível que os mesmos dados sejam repetidamente copiados e armazenados em locais diferentes, resultando em duplicações que não intencionais do usuario.
